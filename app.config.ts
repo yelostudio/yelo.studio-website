@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'yelo.studio',
+    description: 'artisanat numérique',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
